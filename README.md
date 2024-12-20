@@ -27,22 +27,6 @@ Evaluates models using Mean Squared Error (MSE) and R2 Score.
 Compares model performance visually.
 
 
-File Descriptions
-
-main.py: The main Python script to preprocess data, train models, and visualize results.
-
-Fuel_cell_performance_data-Full.csv: Input dataset (needs to be provided).
-
-model_results_target5.csv: Output file containing model perfrmance metrics.
-
-
-Outputs:
-
-Visualizations of the target variable and model performance.
-
-Model performance metrics saved in model_results_target5.csv.
-
-
 
 Models Used
 
